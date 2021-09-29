@@ -26,5 +26,5 @@ docker create \
   --restart unless-stopped \
   linuxserver/webtop:ubuntu-xfce-version-d94f3c01
  
- and the run "docker start webtop"
+ and then run "docker start webtop"
  click on web preview and on preview at port 8080
