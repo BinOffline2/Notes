@@ -3,6 +3,9 @@
 ## Snake
 https://binofflinessnake.herokuapp.com/
 
+## Tetris
+https://mamastetris.web.app/
+
 ## Gefrierschrank
 https://papagefrierschrank.pythonanywhere.com/
 
