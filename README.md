@@ -1,7 +1,8 @@
 # Links
 
 ## Snake
-https://binofflinessnake.herokuapp.com/
+https://multiplaysnake.web.app/
+old link: https://binofflinessnake.herokuapp.com/
 
 ## Tetris
 https://mamastetris.web.app/
